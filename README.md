@@ -144,7 +144,3 @@ print(normalized)  # Output: aabbccddeeff
 
 - Python 3.x
 - No additional dependencies required (uses standard library modules: `socket`, `re`, `time`, `random`)
-
-## License
-
-MIT License - feel free to use and modify for personal or commercial projects.
